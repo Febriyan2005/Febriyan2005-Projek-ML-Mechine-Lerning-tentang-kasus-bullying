@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(100deg,rgb(252, 252, 11),rgb(82, 245, 82));
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-right: 50%;
+}
