@@ -1,1 +1,1 @@
-# Febriyan2005-Projek-ML-Mechine-Lerning-tentang-kasus-bullying
+# Projek-ML-Mechine-Lerning-tentang-kasus-bullying
